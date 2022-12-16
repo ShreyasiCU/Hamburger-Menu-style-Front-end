@@ -53,7 +53,8 @@ body {
 #showcase h1 {
   font-size: 6rem;
   font-family: 'Kenia', cursive;
-  color:rgb(207, 238, 255)
+  color:rgb(207, 238, 255);
+  padding-bottom: 30px;
 }
 
 #showcase p {
